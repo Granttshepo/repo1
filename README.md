@@ -1,1 +1,2 @@
-welcome to the coding summer school# repo1
+# repo1
+Welcome to the summer school
